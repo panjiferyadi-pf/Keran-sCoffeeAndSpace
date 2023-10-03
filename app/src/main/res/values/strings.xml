@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Keran\'s Coffee and Space</string>
+    <string name="judul_main">Keran's Coffee and Space</string>
+    <string name="judul_splash">Coffee and Space</string>
+    <string name="judul_menu">THE MENUS</string>
+    <string name="judul_pesan">THE ORDER</string>
+</resources>
